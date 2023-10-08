@@ -5,3 +5,8 @@
 ##### This is a H5 header.
 ###### This is a H6 header.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` python
+x = 5
+y = 10
+print(x + y)
+```
