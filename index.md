@@ -10,3 +10,6 @@ x = 5
 y = 10
 print(x + y)
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
